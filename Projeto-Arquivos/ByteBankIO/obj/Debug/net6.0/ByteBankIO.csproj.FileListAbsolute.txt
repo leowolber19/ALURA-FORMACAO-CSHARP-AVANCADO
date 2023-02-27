@@ -1,0 +1,15 @@
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\bin\Debug\net6.0\ByteBankIO.exe
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\bin\Debug\net6.0\ByteBankIO.deps.json
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\bin\Debug\net6.0\ByteBankIO.runtimeconfig.json
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\bin\Debug\net6.0\ByteBankIO.dll
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\bin\Debug\net6.0\ByteBankIO.pdb
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.AssemblyReference.cache
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfoInputs.cache
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfo.cs
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\ByteBankIO.dll
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\refint\ByteBankIO.dll
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\ByteBankIO.pdb
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\ByteBankIO.genruntimeconfig.cache
+C:\Users\leonardo.wolber\Downloads\ByteBankIO-Aula2\ByteBankIO\obj\Debug\net6.0\ref\ByteBankIO.dll
